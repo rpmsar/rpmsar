@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @rpmsar
 - 👀 I’m interested in ...programming
-- 🌱 I’m currently learning ...super ai
 - 💞️ I’m looking to collaborate on ...ai
 - 📫 How to reach me ...
 
